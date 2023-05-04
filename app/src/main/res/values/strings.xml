@@ -16,9 +16,9 @@
 
     <string name="large_text"></string>
 
-        "About Us\n\n"
+    "About Us\n\n"
 
-        "Government Engineering College Bilaspur, is a provider of University level"
+    "Government Engineering College Bilaspur, is a provider of University level"
     "technical education and research in Chhattisgarh state. The institute is is affiliated"
     "to Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai and"
     "approved by All India Council for Technical Education (AICTE), Delhi. Since its"
@@ -37,26 +37,23 @@
 
     "The city of Bilaspur is a main junction on Howrah-Mumbai rail route of South"
     "Eastern Central railway. The distance of the institution from railway station is 10"
-    "km. The nearest airport is Bilasa Devi Kewat Airport, Bilaspur  which is 20km away"
+    "km. The nearest airport is Bilasa Devi Kewat Airport, Bilaspur which is 20km away"
     "from the institute on Bilaspur-Raipur National Highway. This institute is located on"
     "Korba road amidst the peaceful, lush green and natural region of Koni village. It is"
     "well connected by Rail ,Roadways and through air to other main cities.\n"
 
 
-        "Vision of the Institute:\n\n"
+    "Vision of the Institute:\n\n"
 
-        "To be a global leader by imparting quality technical education and innovative"
-        "research for the betterment of the industry and society.\n"
+    "To be a global leader by imparting quality technical education and innovative"
+    "research for the betterment of the industry and society.\n"
 
-        "Mission of the Institute:\n\n"
+    "Mission of the Institute:\n\n"
 
-        "Developing technical competencies to enhance employability and "
-        "entrepreneurship.Promoting research and consultancy activities to meet the need"
-        "for industries. Inculcating ethical values and leadership qualities for sustainable "
-        "development.\n"
-
-
-
+    "Developing technical competencies to enhance employability and "
+    "entrepreneurship.Promoting research and consultancy activities to meet the need"
+    "for industries. Inculcating ethical values and leadership qualities for sustainable "
+    "development.\n"
 
 
     <string name="action_settings">Settings</string>
