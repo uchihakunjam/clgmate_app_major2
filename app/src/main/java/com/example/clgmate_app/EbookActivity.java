@@ -28,7 +28,7 @@ public class EbookActivity extends AppCompatActivity {
 
         //for three dots
 
-        getSupportActionBar().setDisplayShowHomeEnabled(true);
+//        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
         viewEbook1 = findViewById(R.id.btnAeView1);
         bookName1 = findViewById(R.id.tvAeFileName1);
