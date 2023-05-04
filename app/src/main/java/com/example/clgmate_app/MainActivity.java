@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         etEmail = findViewById(R.id.editTextUserName);
         etPassword = findViewById(R.id.etTxtPasssword);
 
-
+        //mainPage
 
 
         btn.setOnClickListener(new View.OnClickListener() {
