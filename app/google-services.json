@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "465777560212",
-    "project_id": "clgmateapp",
-    "storage_bucket": "clgmateapp.appspot.com"
+    "project_number": "1052434844194",
+    "project_id": "majorclgmate",
+    "storage_bucket": "majorclgmate.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:465777560212:android:351d8f592f792d33638281",
+        "mobilesdk_app_id": "1:1052434844194:android:87f27a576e9975b45a587b",
         "android_client_info": {
           "package_name": "com.example.clgmate_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "465777560212-6b2tfcorar7a3mgpgju7eu9nkacupujj.apps.googleusercontent.com",
+          "client_id": "1052434844194-tr9btpoib9o3mj5ldmd4rba1brpot7ic.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDwdD3eUKn8GB16VecGwZiviDRxSLapE3M"
+          "current_key": "AIzaSyAeyEPwsciqQDuypALOOs6D0iyC79-qqCE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "465777560212-6b2tfcorar7a3mgpgju7eu9nkacupujj.apps.googleusercontent.com",
+              "client_id": "1052434844194-tr9btpoib9o3mj5ldmd4rba1brpot7ic.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

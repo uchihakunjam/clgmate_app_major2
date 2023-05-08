@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Dept_Wise_Faculty_Infor extends AppCompatActivity {
+public class FacultyActivityCs extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_dept_wise_faculty_infor);
+        setContentView(R.layout.activity_faculty_cs);
     }
 }

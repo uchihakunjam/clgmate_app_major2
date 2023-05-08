@@ -1,12 +1,8 @@
 package com.example.clgmate_app;
 
 import android.content.Intent;
-import android.graphics.Color;
 import android.os.Bundle;
 
-import androidx.appcompat.app.ActionBar;
-import androidx.appcompat.app.ActionBarDrawerToggle;
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.fragment.app.Fragment;
@@ -16,8 +12,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import com.denzcoskun.imageslider.ImageSlider;
 import com.denzcoskun.imageslider.constants.ScaleTypes;
@@ -104,12 +98,12 @@ public class HomeFragment extends Fragment {
                     public void onItemClick(View view, int position) {
                     switch(position){
                         case 0:
-                            Intent intent = new Intent(getContext() , DownloadAndViewActivity.class);
+                            Intent intent = new Intent(getContext() , SyllabusIt.class);
                             startActivity(intent);
                             break;
 
                         case 1:
-                            startActivity(new Intent(getContext(),EbookActivity.class));
+                            startActivity(new Intent(getContext(),EbookNewActivity.class));
                             break;
 
                         case 2:
@@ -117,7 +111,7 @@ public class HomeFragment extends Fragment {
                             break;
 
                         case 3:
-                            startActivity(new Intent(getContext(),FacultyActivity.class));
+                            startActivity(new Intent(getContext(),Dept_Wise_Faculty_Info.class));
                             break;
 
                     }

@@ -20,7 +20,34 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-            android:name=".Dept_Wise_Faculty_Infor"
+            android:name=".EbookNewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SyllabusElectrical"
+            android:exported="false" />
+        <activity
+            android:name=".SyllabusIt"
+            android:exported="false" />
+        <activity
+            android:name=".FacultyActivityMining"
+            android:exported="false" />
+        <activity
+            android:name=".FacultyActivityCivil"
+            android:exported="false" />
+        <activity
+            android:name=".FacultyActivityET"
+            android:exported="false" />
+        <activity
+            android:name=".FacultyActivityMechnical"
+            android:exported="false" />
+        <activity
+            android:name=".FacultyActivityCs"
+            android:exported="false" />
+        <activity
+            android:name=".FacultyActivityElectrical"
+            android:exported="false" />
+        <activity
+            android:name=".DeptWiseFacultyInfo"
             android:exported="false" />
         <activity
             android:name=".Dept_Wise_Faculty_Info"

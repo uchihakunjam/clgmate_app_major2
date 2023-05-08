@@ -58,7 +58,7 @@ TextView alreadyHaveAccount;
         // Check if user is signed in (non-null) and update UI accordingly.
         FirebaseUser currentUser = FirebaseAuth.getInstance().getCurrentUser();
 
-        if(currentUser != null){
+        if(currentUser == null){
             startActivity(new Intent(getApplicationContext(), MainPage.class));
         }
     }

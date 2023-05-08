@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".FacultyActivity">
+    tools:context=".FacultyActivityElectrical">
 
     <Toolbar
         android:layout_width="match_parent"
@@ -67,7 +67,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="Prof. Awanish Kumar Upadhyay "
+                            android:text="Prof. Anil Shukla "
                             android:hint="Prof. Himanshu Mokashe "
                             android:layout_margin="10dp" />
 
@@ -92,7 +92,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="IT"
+                            android:text="Electrical"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -116,7 +116,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="9893110221"
+                            android:text="9755865511"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -180,9 +180,9 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="Prof. Himanshu Mokashe "
+                            android:text="Prof.Sajay Kumar Dewangan "
                             android:hint="Prof. Himanshu Mokashe "
-                            android:layout_margin="10dp" />
+                            android:layout_margin="2dp" />
 
                     </LinearLayout>
 
@@ -206,7 +206,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="IT"
+                            android:text="Electrical"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -231,7 +231,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="8770201998"
+                            android:text="8878740348"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -296,7 +296,7 @@
                             android:layout_margin="10dp"
                             android:hint="Prof. Samiksha Shukla "
                             android:inputType="text"
-                            android:text="Prof. Samiksha Shukla "
+                            android:text="Prof.Kishore Kumar Shukla "
                             android:textSize="18sp" />
 
                     </LinearLayout>
@@ -321,7 +321,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="IT"
+                            android:text="Electrical"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -346,7 +346,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="9770832766"
+                            android:text="9424169287"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -411,7 +411,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="Prof. Priyanka Sahu "
+                            android:text="Prof. Garima Chandrakar "
                             android:hint="Prof. Priyanka Sahu "
                             android:layout_margin="10dp" />
 
@@ -437,7 +437,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="IT"
+                            android:text="Electrical"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -462,7 +462,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="7828071147"
+                            android:text="7566432492"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -526,7 +526,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="Prof. Kunal Kumar "
+                            android:text="Prof. Prince Kumar "
                             android:hint="Prof. Kunal Kumar "
                             android:layout_margin="10dp" />
 
@@ -552,7 +552,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="IT"
+                            android:text="Electrical"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -577,7 +577,230 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="8085273680"
+                            android:text="8210422925"
+                            android:hint="Enter book author"
+                            android:layout_margin="10dp" />
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center"/>
+
+
+
+
+                </LinearLayout>
+
+
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="1.1in"
+                android:layout_margin="7dp"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="8dp"
+                app:cardBackgroundColor="@color/white">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+
+                    >
+
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center"
+                        android:layout_marginTop="@dimen/_5sdp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Faculty Name :"
+                            android:textSize="18sp"
+                            android:layout_margin="10dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="text"
+                            android:textSize="18sp"
+                            android:text="Prof. Uma Rathore "
+                            android:hint="Prof. Kunal Kumar "
+                            android:layout_margin="10dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Department :"
+                            android:textSize="18sp"
+                            android:layout_margin="10dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="text"
+                            android:textSize="18sp"
+                            android:text="Electrical"
+                            android:hint="Enter book author"
+                            android:layout_margin="10dp" />
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Contact No. :"
+                            android:textSize="18sp"
+                            android:layout_margin="10dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="text"
+                            android:textSize="18sp"
+                            android:text="8770071286"
+                            android:hint="Enter book author"
+                            android:layout_margin="10dp" />
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center"/>
+
+
+
+
+                </LinearLayout>
+
+
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="1.1in"
+                android:layout_margin="7dp"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="8dp"
+                app:cardBackgroundColor="@color/white">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+
+                    >
+
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center"
+                        android:layout_marginTop="@dimen/_5sdp">
+
+                        <TextView
+
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Faculty Name :"
+                            android:textSize="18sp"
+                            android:layout_margin="10dp" />
+
+                        <TextView
+
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="text"
+                            android:textSize="18sp"
+                            android:text="Prof. Pallavi Pradhan "
+                            android:hint="Prof. Kunal Kumar "
+                            android:layout_margin="10dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+
+                        <TextView
+
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Department :"
+                            android:textSize="18sp"
+                            android:layout_margin="10dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="text"
+                            android:textSize="18sp"
+                            android:text="Electrical"
+                            android:hint="Enter book author"
+                            android:layout_margin="10dp" />
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Contact No. :"
+                            android:textSize="18sp"
+                            android:layout_margin="10dp" />
+
+                        <TextView
+
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="text"
+                            android:textSize="18sp"
+                            android:text="9098930971"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 

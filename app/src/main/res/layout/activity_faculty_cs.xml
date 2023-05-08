@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".FacultyActivity">
+    tools:context=".FacultyActivityCs">
 
     <Toolbar
         android:layout_width="match_parent"
@@ -67,7 +67,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="Prof. Awanish Kumar Upadhyay "
+                            android:text="Prof. Sourabh Yadav "
                             android:hint="Prof. Himanshu Mokashe "
                             android:layout_margin="10dp" />
 
@@ -92,7 +92,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="IT"
+                            android:text="Computer Science"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -116,7 +116,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="9893110221"
+                            android:text="8871089917"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -180,7 +180,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="Prof. Himanshu Mokashe "
+                            android:text="Prof. Sanchita Chaurawar "
                             android:hint="Prof. Himanshu Mokashe "
                             android:layout_margin="10dp" />
 
@@ -206,7 +206,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="IT"
+                            android:text="Computer Science"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -231,7 +231,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="8770201998"
+                            android:text="8319553241"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -294,9 +294,9 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_margin="10dp"
-                            android:hint="Prof. Samiksha Shukla "
+                            android:hint="Prof. Vishnu Verma "
                             android:inputType="text"
-                            android:text="Prof. Samiksha Shukla "
+                            android:text="Prof. Vishnu Verma "
                             android:textSize="18sp" />
 
                     </LinearLayout>
@@ -321,7 +321,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="IT"
+                            android:text="Computer Science"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -346,7 +346,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="9770832766"
+                            android:text="8959576336"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -411,7 +411,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="Prof. Priyanka Sahu "
+                            android:text="Prof. Savita Sahu "
                             android:hint="Prof. Priyanka Sahu "
                             android:layout_margin="10dp" />
 
@@ -437,7 +437,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="IT"
+                            android:text="Computer Science"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
@@ -462,122 +462,7 @@
                             android:layout_height="wrap_content"
                             android:inputType="text"
                             android:textSize="18sp"
-                            android:text="7828071147"
-                            android:hint="Enter book author"
-                            android:layout_margin="10dp" />
-
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:orientation="horizontal"
-                        android:gravity="center"/>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:orientation="horizontal"
-                        android:gravity="center"/>
-
-
-
-
-                </LinearLayout>
-
-
-
-
-            </androidx.cardview.widget.CardView>
-            <androidx.cardview.widget.CardView
-                android:layout_width="match_parent"
-                android:layout_height="1.1in"
-                android:layout_margin="7dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="8dp"
-                app:cardBackgroundColor="@color/white">
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="vertical"
-
-                    >
-
-
-
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:orientation="horizontal"
-                        android:gravity="center"
-                        android:layout_marginTop="@dimen/_5sdp">
-
-                        <TextView
-                            android:id="@+id/text_book_title"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Faculty Name :"
-                            android:textSize="18sp"
-                            android:layout_margin="10dp" />
-
-                        <TextView
-                            android:id="@+id/edit_book_title3"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:inputType="text"
-                            android:textSize="18sp"
-                            android:text="Prof. Kunal Kumar "
-                            android:hint="Prof. Kunal Kumar "
-                            android:layout_margin="10dp" />
-
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:orientation="horizontal"
-                        android:gravity="center">
-
-                        <TextView
-                            android:id="@+id/text_book_author5"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Department :"
-                            android:textSize="18sp"
-                            android:layout_margin="10dp" />
-
-                        <TextView
-                            android:id="@+id/edit_book_author3"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:inputType="text"
-                            android:textSize="18sp"
-                            android:text="IT"
-                            android:hint="Enter book author"
-                            android:layout_margin="10dp" />
-
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:orientation="horizontal"
-                        android:gravity="center">
-
-                        <TextView
-                            android:id="@+id/text_book_author3"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Contact No. :"
-                            android:textSize="18sp"
-                            android:layout_margin="10dp" />
-
-                        <TextView
-                            android:id="@+id/edit_book_author23"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:inputType="text"
-                            android:textSize="18sp"
-                            android:text="8085273680"
+                            android:text="7000026717"
                             android:hint="Enter book author"
                             android:layout_margin="10dp" />
 
