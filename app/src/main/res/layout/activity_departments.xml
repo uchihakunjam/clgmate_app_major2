@@ -34,7 +34,8 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="8mm">
+        android:layout_height="8mm"
+        android:paddingTop="@dimen/_2sdp">
 
         <TextView
             android:id="@+id/marquee"
