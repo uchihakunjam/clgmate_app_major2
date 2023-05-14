@@ -62,7 +62,7 @@ public class HomeFragment extends Fragment {
         list.add(new RecipeModel(R.drawable.ebook ,"E-book"));
         list.add(new RecipeModel(R.drawable.academiccalender ,"Academic calender"));
         list.add(new RecipeModel(R.drawable.faculty ,"Faculty"));
-        list.add(new RecipeModel(R.drawable.department3,"Department"));
+        list.add(new RecipeModel(R.drawable.department3,"Departments"));
 
         RecipeAdapter adapter = new RecipeAdapter(list ,getContext());
         recyclerView.setAdapter(adapter);
