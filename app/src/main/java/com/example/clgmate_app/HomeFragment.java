@@ -62,6 +62,7 @@ public class HomeFragment extends Fragment {
         list.add(new RecipeModel(R.drawable.ebook ,"E-book"));
         list.add(new RecipeModel(R.drawable.academiccalender ,"Academic calender"));
         list.add(new RecipeModel(R.drawable.faculty ,"Faculty"));
+        list.add(new RecipeModel(R.drawable.department3,"Department"));
 
         RecipeAdapter adapter = new RecipeAdapter(list ,getContext());
         recyclerView.setAdapter(adapter);
@@ -112,6 +113,10 @@ public class HomeFragment extends Fragment {
 
                         case 3:
                             startActivity(new Intent(getContext(),Dept_Wise_Faculty_Info.class));
+                            break;
+
+                        case 4:
+                            startActivity(new Intent(getContext(),Departments.class));
                             break;
 
                     }
