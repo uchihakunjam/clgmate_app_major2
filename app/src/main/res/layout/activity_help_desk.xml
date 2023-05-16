@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HelpDesk">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/aeLLToolBar"
+        >
+        <Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:title="Help Desk"
+            android:titleTextColor="@color/white"
+            android:background="@color/primary_color"
+            />
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_below="@+id/aeLLToolBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll1"
+        android:orientation="vertical"
+        >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_60sdp"
+
+            >
+
+            <ImageView
+                android:id="@+id/aeEbook1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+
+                android:layout_marginTop="17dp"
+                android:layout_marginRight="330sp"
+
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/helpdesk" />
+
+
+            <TextView
+                android:id="@+id/tvAacFileName1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+
+
+
+
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginStart="@dimen/_70sdp"
+
+
+                android:fontFamily="serif"
+                android:gravity="center_vertical"
+                android:hint="Heelw"
+                android:textColor="@color/black"
+                android:textSize="18dp" />
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+
+
+            <Button
+                android:id="@+id/helpdeskbtnview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+android:layout_margin="@dimen/_10sdp"
+                android:layout_weight="1"
+                android:background="#1E88E5"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:text="view"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp"
+                tools:ignore="TextContrastCheck" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

@@ -61,9 +61,11 @@ public class HomeFragment extends Fragment {
         list.add(new RecipeModel(R.drawable.syllabus ,"Syllabus"));
         list.add(new RecipeModel(R.drawable.ebook ,"E-book"));
         list.add(new RecipeModel(R.drawable.academiccalender ,"Academic calender"));
-        list.add(new RecipeModel(R.drawable.faculty ,"Faculty"));
+        list.add(new RecipeModel(R.drawable.faculty ,"Faculties"));
         list.add(new RecipeModel(R.drawable.department3,"Departments"));
         list.add(new RecipeModel(R.drawable.payment,"College fee payment"));
+        list.add(new RecipeModel(R.drawable.placement1,"Placement cell"));
+        list.add(new RecipeModel(R.drawable.helpdesk,"Helpdesk"));
 
         RecipeAdapter adapter = new RecipeAdapter(list ,getContext());
         recyclerView.setAdapter(adapter);
@@ -122,6 +124,14 @@ public class HomeFragment extends Fragment {
 
                         case 5:
                             startActivity(new Intent(getContext(),OnlineFeesPayment.class));
+                            break;
+
+                        case 6:
+                            startActivity(new Intent(getContext(),PlacementCell.class));
+                            break;
+
+                        case 7:
+                            startActivity(new Intent(getContext(),HelpDesk.class));
                             break;
 
                     }
