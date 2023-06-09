@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1052434844194",
-    "project_id": "majorclgmate",
-    "storage_bucket": "majorclgmate.appspot.com"
+    "project_number": "323536275164",
+    "project_id": "android-notification-951ea",
+    "storage_bucket": "android-notification-951ea.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1052434844194:android:87f27a576e9975b45a587b",
+        "mobilesdk_app_id": "1:323536275164:android:3c657e2f1afb692c92d619",
         "android_client_info": {
           "package_name": "com.example.clgmate_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1052434844194-tr9btpoib9o3mj5ldmd4rba1brpot7ic.apps.googleusercontent.com",
+          "client_id": "323536275164-ncjeabdiupc4cug4j8gieis09rssdk9o.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAeyEPwsciqQDuypALOOs6D0iyC79-qqCE"
+          "current_key": "AIzaSyBEB1CnpgNuib_OX6m7r0vCx1Y2tp0w01Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1052434844194-tr9btpoib9o3mj5ldmd4rba1brpot7ic.apps.googleusercontent.com",
+              "client_id": "323536275164-ncjeabdiupc4cug4j8gieis09rssdk9o.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
