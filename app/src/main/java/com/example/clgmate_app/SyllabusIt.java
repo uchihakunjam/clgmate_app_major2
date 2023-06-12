@@ -21,7 +21,7 @@ public class SyllabusIt extends AppCompatActivity {
         btn4 = findViewById(R.id.facultybtn4);
         btn5 = findViewById(R.id.facultybtn5);
         btn6 = findViewById(R.id.facultybtn6);
-        btn7 = findViewById(R.id.facultybtn7);
+        btn7 = findViewById(R.id.onlinefeepay);
 
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override

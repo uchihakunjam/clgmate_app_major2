@@ -514,7 +514,7 @@
                         android:gravity="center"/>
 
                     <Button
-                        android:id="@+id/facultybtn7"
+                        android:id="@+id/onlinefeepay"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="DOWNLOAD"

@@ -24,7 +24,7 @@ public class Dept_Wise_Faculty_Info extends AppCompatActivity {
         button4 = findViewById(R.id.facultybtn4);
         button5 = findViewById(R.id.facultybtn5);
         button6 = findViewById(R.id.facultybtn6);
-        button7 = findViewById(R.id.facultybtn7);
+        button7 = findViewById(R.id.onlinefeepay);
 
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
